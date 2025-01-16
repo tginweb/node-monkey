@@ -1,4 +1,4 @@
-# Node Monkey
+# Node Monkey Pacthed
 
 A tool for inspecting, debugging and commanding Node.js applications through a web browser or SSH interface into your app (with your own custom commands).
 
